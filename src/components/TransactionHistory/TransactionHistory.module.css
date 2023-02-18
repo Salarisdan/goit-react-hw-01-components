@@ -1,0 +1,27 @@
+.statList {
+    padding: 0;
+    text-align: center;
+    margin-left: 35%;
+    margin-right: 35%;
+ }
+ 
+ .transactionHistory {
+    border-collapse: collapse;
+ }
+ 
+ td,
+ th {
+    border: 1px solid rgb(190, 190, 190);
+    padding: 5px 30px;
+    text-align: center;
+ }
+ 
+ th {
+    background-color: rgb(26, 189, 226);
+    color: #fff;
+ }
+
+ td:hover{
+   background-color:rgb(26, 189, 226) ;
+   cursor: pointer;
+ }

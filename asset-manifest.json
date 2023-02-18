@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Salarisdan/goit-react-hw-01-components/static/css/main.9bed4f47.css",
+    "main.js": "/Salarisdan/goit-react-hw-01-components/static/js/main.0c6c05b5.js",
+    "index.html": "/Salarisdan/goit-react-hw-01-components/index.html",
+    "main.9bed4f47.css.map": "/Salarisdan/goit-react-hw-01-components/static/css/main.9bed4f47.css.map",
+    "main.0c6c05b5.js.map": "/Salarisdan/goit-react-hw-01-components/static/js/main.0c6c05b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bed4f47.css",
+    "static/js/main.0c6c05b5.js"
+  ]
+}
